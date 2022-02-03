@@ -1,7 +1,7 @@
 # KMP Base64 Encoder Library (Native Libraries: XCFramework for iOS - AAR for Android)
 
-A KMP library which written by Kotlin Multiplatform using Kotlin.
-The purpose is to generate native library using KMP (XCFramework for iOS - AAR for Android).
+A KMP library which written by Kotlin Multiplatform using Kotlin.  
+The purpose is to generate native library using KMP (XCFramework for iOS - AAR for Android).  
 This library implements a simple Base64 encoder function.
 
 ## Getting Started

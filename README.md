@@ -39,6 +39,7 @@ After the process finished, library will be located at `shared/build/outputs/aar
 ./gradlew assembleDebugXCFramework # generate debug framework - additionally debug artifact that contains dSYMs
 ./gradlew assembleReleaseXCFramework # generate release framework
 ```
+After the process finished, library will be located at `shared/build/XCFramewords/`
 
 ## Usage (in IOS)
 1. Create new project.
